@@ -1,0 +1,32 @@
+body{
+  background-color: khaki;
+  color:slategrey;
+}
+
+.b1{
+  color: white;
+  background-color: #333;
+  display: flex;
+  justify-content: space-around;
+  padding: 4px;
+}
+.card{
+  background-color:darkkhaki;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+
+  footer {
+    background-color: #333;
+    color: #bbb;
+  }
+
+  
